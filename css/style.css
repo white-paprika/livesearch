@@ -1,0 +1,7 @@
+.container{
+    max-width: 50%;
+}
+.profileID{
+    display: none;
+    visibility: hidden;
+}
